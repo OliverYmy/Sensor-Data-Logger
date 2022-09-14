@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sensor Data Logger</string>
+    <string name="timestamp">Current Timestamp</string>
+    <string name="sensor_accel">Accelerometer</string>
+    <string name="sensor_linear_accel">Linear Accelerometer</string>
+    <string name="sensor_baro">Barometer</string>
+    <string name="sensor_mag">Magnetic</string>
+    <string name="sensor_gyro">Gyroscope</string>
+    <string name="sensor_ori">Orientation</string>
+    <string name="btn_start">START</string>
+    <string name="btn_stop">STOP</string>
+    <string name="btn_export">EXPORT</string>
+    <string name="btn_walk">走路</string>
+    <string name="btn_sit">静止</string>
+    <string name="btn_run">跑步</string>
+    <string name="btn_upstairs">上楼</string>
+    <string name="btn_downstairs">下楼</string>
+    <string name="btn_subway">地铁</string>
+</resources>
